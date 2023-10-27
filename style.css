@@ -1,0 +1,17 @@
+h1
+{
+color: blue;
+font-size : 8em;	
+}
+
+p{
+	color: orange;
+	font-size: 3em;
+	font-style: verdana;
+}
+.c1{
+	color: darkred;
+}
+.c2
+{color: darkgreen;
+}
